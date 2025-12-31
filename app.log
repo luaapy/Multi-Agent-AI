@@ -1,0 +1,88 @@
+2025-12-31 06:47:09,157 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 06:47:12,721 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 06:47:16,950 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 06:47:16,959 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:49:31,274 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:49:33,848 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:49:37,115 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:49:37,125 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:51:35,030 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:51:37,360 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:51:40,755 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:51:40,756 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:53:39,677 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:53:42,287 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:53:45,799 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:53:45,800 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:55:05,774 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:55:07,942 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:55:11,035 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:55:11,041 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:56:02,669 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-lite:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:56:04,995 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-lite:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:56:08,545 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-lite:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:56:08,551 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 06:58:07,319 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:58:10,101 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:58:13,545 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '404 Not Found' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-002:generateContent?key=AIzaSyDzg98oA1ZCGUdriCJTOXbmhMWRRi3yRuU'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-12-31 06:58:13,644 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:07:55,745 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '401 Unauthorized' for url 'https://api.deepseek.com/v1/chat/completions?key=sk-ab085a00497747be8037854b2cf169b6'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2025-12-31 07:07:58,700 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '401 Unauthorized' for url 'https://api.deepseek.com/v1/chat/completions?key=sk-ab085a00497747be8037854b2cf169b6'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2025-12-31 07:08:02,366 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '401 Unauthorized' for url 'https://api.deepseek.com/v1/chat/completions?key=sk-ab085a00497747be8037854b2cf169b6'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2025-12-31 07:08:02,371 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:14:04,248 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 07:14:07,935 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 07:14:11,827 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '402 Payment Required' for url 'https://api.deepseek.com/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+2025-12-31 07:14:11,830 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:23:47,636 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:23:50,235 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:24:23,346 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: 
+2025-12-31 07:24:23,350 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:26:21,459 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:26:24,462 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:26:27,804 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:26:27,807 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:29:00,386 - utils.error_handler - WARNING - Attempt 1/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:29:02,771 - utils.error_handler - WARNING - Attempt 2/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:29:06,129 - utils.error_handler - WARNING - Attempt 3/3 failed for generate: Client error '429 Too Many Requests' for url 'https://api.z.ai/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2025-12-31 07:29:06,131 - utils.error_handler - ERROR - All 3 attempts failed for generate
+2025-12-31 07:34:22,404 - root - WARNING - GLM rate limited, switching to Gemini fallback
+2025-12-31 07:36:37,686 - root - WARNING - GLM rate limited, switching to Gemini fallback
+2025-12-31 07:40:54,419 - root - WARNING - GLM rate limited, switching to Gemini fallback
+2025-12-31 07:44:47,689 - root - WARNING - GLM rate limited, switching to Gemini fallback
+2025-12-31 08:00:12,452 - root - WARNING - GLM rate limited, switching to Gemini fallback
